@@ -49,7 +49,6 @@ add_action( 'admin_menu', function() use ($settings) {
                 <?php
                     do_settings_sections( $settings->page ); // print fields of the page / tab
                     submit_button();
-                    echo FCGB_VER;
                     settings_fields( $settings->group ); // nonce
                 ?>
             </form>
