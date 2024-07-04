@@ -8,7 +8,7 @@ Version: 2.0.0
 Requires at least: 6.0
 Tested up to: 6.4
 Requires PHP: 8.0
-Author: Firmcatalyst, Vadim Volkov
+Author: Vadim Volkov
 Author URI: https://firmcatalyst.com/about/
 License: GPL v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
