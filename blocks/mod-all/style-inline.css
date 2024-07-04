@@ -1,5 +1,5 @@
 @media (max-width:781px) {
-    .hide-on-mobile {
+    body .hide-on-mobile {
         display: none;
     }
 }
